@@ -1,6 +1,4 @@
-# Cobol
-
-Course in spanish by Pablo Tilotta [here](https://www.udemy.com/course/masters-desarrollo/learn/lecture/17171780)
+# Golang
 
 Why GO?
 * Easy to learn, clear and improved syntax
@@ -22,21 +20,24 @@ Install using `apt` with this [link](https://github.com/golang/go/wiki/Ubuntu)
 I used the following
 ```shell
 sudo add-apt-repository ppa:longsleep/golang-backports
-sudo apt update
-sudo apt install golang-go -y
+sudo apt-get update
+sudo apt-get install golang-go -y
 ```
 
-* Verify your installation
+Verify your installation
 ```shell
 go version
 ```
 
-* Execute but don't save the executable
+Execute but don't save the executable
 ```shell
 go run main.go
 ```
 
-* Build executable
+Build executable
 ```shell
 go build main.go
 ```
+
+* Linux: `\n`
+* Windows: `\n\r`
