@@ -1,6 +1,6 @@
 # Golang
 
-Why GO?
+Why Go?
 * Easy to learn, clear and improved syntax
 * No need to use ';'
 * Takes easy advantage of all PC resources
@@ -11,7 +11,7 @@ Why GO?
 * Is not Object Oriented
 * It has structures, functions, methods, interfaces...
 * Variable scope is solved with lower and upper case variables
-* Has 3 kinds of basic variables: numbers, strings and booleans
+* Only has 3 kinds of basic variables: numbers, strings and booleans
 
 ## Setup environment
 

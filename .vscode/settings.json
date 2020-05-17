@@ -9,5 +9,8 @@
     "**/.DS_Store": true,
     "**/.directory": true,
     "**/desktop.ini": true
+  },
+  "[go]": {
+    "editor.formatOnSave": true
   }
 }
